@@ -1,5 +1,4 @@
-# Author Prerak Jigneshkumar Patel  000736376
-#
+
 usr_name = input( "Hi, What's your Name?" )
 partner_name = input ( "What is your partner's name?" )
 message = ( "Let's see will you be able to sit together" )
